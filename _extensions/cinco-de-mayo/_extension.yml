@@ -1,0 +1,10 @@
+title: Cinco De Mayo Theme
+author: Emil Hvitfeldt
+version: 1.0.0
+contributes:
+  format:
+    revealjs:
+      theme: [default, cinco.scss]
+      width: 1280
+      height: 720
+      code-line-numbers: false

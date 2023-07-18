@@ -1,0 +1,119 @@
+---
+format: cinco-de-mayo-revealjs
+---
+
+## .theme-title1 {.theme-title1 .center}
+
+### quarto-revealjs-cinco-de-mayo
+
+## .theme-title2 {.theme-title2 .center}
+
+### quarto-revealjs-cinco-de-mayo
+
+## .theme-title3 {.theme-title3 .center}
+
+### quarto-revealjs-cinco-de-mayo
+
+## .theme-title4 {.theme-title4 .center}
+
+### quarto-revealjs-cinco-de-mayo
+
+## .theme-title5 {.theme-title5 .center}
+
+### quarto-revealjs-cinco-de-mayo
+
+## .theme-title6 {.theme-title6 .center}
+
+### quarto-revealjs-cinco-de-mayo
+
+## .theme-section1 {.theme-section1}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-section2 {.theme-section2}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-section3 {.theme-section3}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-section4 {.theme-section4}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-section5 {.theme-section5}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-section6 {.theme-section6}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-section7 {.theme-section7}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-section8 {.theme-section8}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-section9 {.theme-section9}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide1 {.theme-slide1}
+
+### Normal slide
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide2 {.theme-slide2}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide3 {.theme-slide3}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide4 {.theme-slide4}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide5 {.theme-slide5}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide6 {.theme-slide6}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide7 {.theme-slide7}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide8 {.theme-slide8}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## .theme-slide9 {.theme-slide9}
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
